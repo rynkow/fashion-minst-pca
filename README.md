@@ -23,7 +23,6 @@ Few examples of how the data looks after dimension reduction (by discarding feat
 ![Trouser](out/TrouserExample.png)
 
 # First two features plotted on 2D pane
-After plotting the first two features of the data set, we  can see that first 2 they 
-(after applying PCA - before that would be values of 2 first pixels on the picture) grouped the data into discernable clusters. <br>
+After plotting the first two features (after applying PCA - before that would be values of 2 first pixels on the picture) 
+of the data set, we  can see that the data is grouped into discernable clusters. <br>
 ![2D](out/first2features.png)
-
